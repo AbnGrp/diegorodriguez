@@ -1,5 +1,3 @@
-# diegorodriguez
-
 <h1 align="center">Hi 👋, I'm Diego Rodriguez</h1>
 <h3 align="center">A passionate junior data scientist from Mexico</h3>
 
