@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abngrp&show_icons=true&locale=en&layout=compact" alt="abngrp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abngrp&show_icons=true&locale=en" alt="abngrp" /></p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegorodriguez)](https://github.com/anuraghazra/github-readme-stats)
